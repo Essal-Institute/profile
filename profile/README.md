@@ -1,6 +1,6 @@
 ![Essal themed cover](https://essal.org/assets/img/cover.png)
 
-Become certified in what you love to do, grow your career and improve your professional skills.
+Grow your career and improve your professional skills.
 Unlock your potential and bring out the best in you.
 Powered by open source, made by a team of amazing people.
 
@@ -11,7 +11,6 @@ Right now, open communities are building amazing software together, and there ar
 * [Explore our initiatives](https://labs.essal.org)
 * [Check current AI projects](https://ai.essal.org)
 * [Apply for training opportunities](https://essal.org/apply)
-* [Check projects made by our students](https://essal.dz/projects)
 
 
 Visit [essal.org](https://essal.org) to learn more!
